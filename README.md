@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 I’m interested in Cyber Security job.
-- 🌱 I’m currently learning Python by YouTube and some other free learning tool.
+- 🌱 I’m currently learning to obtain TryHackMe Security Analyst Level 1 certificate.
 - 💞️ I’m looking to collaborate on ... I have no idea at the moment. I want someone can practice together.
 - 📫 How to reach me is messaging me?
 
